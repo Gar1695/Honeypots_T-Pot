@@ -1,7 +1,7 @@
 # Honeypot T-Pot
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/T-Pot_logo.png/480px-T-Pot_logo.png" alt="T-Pot Logo" height="150" />
+  <img src="https://github.com/telekom-security/tpotce/blob/master/doc/tpotsocial.png" alt="T-Pot Logo" height="150" />
 </div>
 
 ---
@@ -62,7 +62,7 @@ Además, la herramienta **T-Pot Attack Map** te permite monitorear geográficame
 
 ### **Requisitos del sistema**
 - **CPU**: Al menos 4 núcleos.
-- **RAM**: 16 GB mínimo.
+- **RAM**: 8~16 GB mínimo.
 - **Disco**: 128 GB SSD recomendado.
 - **Sistema operativo**: Ubuntu 22.04 o Rocky Linux.
 
