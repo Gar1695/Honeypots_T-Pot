@@ -71,3 +71,9 @@ Además, la herramienta **T-Pot Attack Map** te permite monitorear geográficame
    ```bash
    git clone https://github.com/telekom-security/tpotce
    cd tpotce
+2. **Ejecuta el instalador interactivo:**
+   ```bash
+   sudo ./install.sh
+4. **Accede a Kibana en tu navegador:**
+   ```bash
+   https://<IP_DEL_SERVIDOR>:64297 
